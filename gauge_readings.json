@@ -1,0 +1,13 @@
+{
+    "clock_cycle": 3802,
+    "timestamp": 1789469340.286005,
+    "pilot_intent": "MANUAL_PITCH",
+    "airspeed_kts": 249.4,
+    "aoa_sensors": {
+        "aoa_sensor_1": 3.54,
+        "aoa_sensor_2": 3.35,
+        "aoa_sensor_3": 3.51
+    },
+    "fault_injected": false,
+    "faulty_sensor": null
+}
